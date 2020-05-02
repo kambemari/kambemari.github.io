@@ -7,18 +7,22 @@
 
 ## Projects
 
+
 ※ 全てRuby on Railsでの開発案件
 
-- 2019年 - 現在     　　求人・アルバイト情報ポータルサイト開発
-- 2018年 - 2019年      人気ソーシャルゲームのサーバーサイド開発
-- 2017年 - 2018年      医療系情報コミュニティサイト開発 / ネットワークサービス社向け管理システム開発
+|  期間  |  業務  |
+| ---- | ---- |
+|  2019年 - 現在  |  求人・アルバイト情報ポータルサイト開発  |
+|  2018年 - 2019年  |  人気ソーシャルゲームのサーバーサイド開発  |
+|  2017年 - 2018年  |  医療系情報コミュニティサイト開発 / ネットワークサービス社向け管理システム開発 |
 
 ---
 
 ## Certifications
-- Ruby Association Certified Ruby Programmer Gold version 2.1 (2018年3月取得)
-- Ruby Association Certified Ruby Programmer Silver version 2.1 (2018年1月取得)
-- 基本情報技術者【FE】 (2018年11月取得) 
-- TOEICスコア905点 (2017年5月取得) 
+
+- Ruby Association Certified Ruby Programmer Gold version 2.1 
+- Ruby Association Certified Ruby Programmer Silver version 2.1 
+- 基本情報技術者【FE】 
+- TOEICスコア905点 
 
 ---
